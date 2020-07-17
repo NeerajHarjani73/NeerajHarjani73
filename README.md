@@ -5,4 +5,5 @@ A Rutgers Business School student, I am interested in exploring career opportuni
 Connect with me on LinkedIn: https://www.linkedin.com/in/neerajharjani/ or reach out at neeraj.harjani@rutgers.edu.
 
 Specialties and Skills: Data Analysis, Machine Learning, Tableau, Salesforce, SAP, Python, R, SQL, Data Mining, Analytical Skills, Reasoning Skills, Conceptual Thinking
+
 Hobbies: Gaming, Dancing and Long Drives!
